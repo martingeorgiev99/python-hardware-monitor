@@ -13,7 +13,7 @@ def __main__():
                     print(sensor.Name, sensor.Value)
 
                     if sensor.Value >= 80:
-                        playsound('D:\\Python\\diploma_project_simple\\sounds\\beep.wav')
+                        playsound('D:\\Python\\python-hardware-monitor\\sounds\\beep.wav')
         time.sleep(5)           
 if __name__ == "__main__":
     __main__()
