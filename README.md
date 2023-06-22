@@ -1,2 +1,3 @@
-# diploma_project_simple
- quick script
+# Python hardware monitor
+
+A customisable hardware monitor using Python and OpenHardwareMonitor (https://openhardwaremonitor.org)
