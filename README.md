@@ -1,2 +1,2 @@
-# python-hardware-monitor
-Customisable hardware monitor using Python and OpenHardwareMonitor.
+# diploma_project_simple
+ quick script
